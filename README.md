@@ -4,8 +4,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
 
 ## Schedule
 
-
-**Monday 25/11**
+## Monday 25/11
 
   **Morning session (9h00 - 12h00)**
 
@@ -41,7 +40,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
     - Curation using ML models
     - Merging units
 
-**Wednesday 26/11**
+## Wednesday 26/11
 
  **Morning session (9h00 - 12h00)**
 
@@ -53,7 +52,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
 
 # Overview of available datasets
 
-If you have to pick only one file to download, because of disk usage, it has to be the first one, **M25_D23_2024-11-11_13-11-10_OF1**, since it will be the most used during the Tutorials
+If you have to pick only one file to download, because of disk usage, it has to be the first one, **M25_D23_2024-11-11_13-11-10_OF1**, since it will be the most used during the Tutorials. The download link is https://filesender.renater.fr/?s=download&token=f94a08b3-e779-4911-90bf-a312c3c34a01
 
 ## In vivo
 
@@ -90,6 +89,5 @@ You can use the `spikeinterface.extractor.read_biocam()` function to read the da
 
 
 Please download these datasets on your laptop from this link:
-
 
 https://filesender.renater.fr/?s=download&token=f94a08b3-e779-4911-90bf-a312c3c34a01
