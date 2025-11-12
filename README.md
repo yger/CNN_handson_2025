@@ -10,7 +10,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
 
   * **Introduction to Spike Sorting** (1h30) [P. Yger]
   * **Introduction to `SpikeInterface`** (30 min) [S. Garcia]
-  * **Chek you install / downloads** (15 min) [both]
+  * **Check you install / downloads** (15 min) [both]
 
   * **Tutorial 1** Reading + Manipulation (30 min) [S. Garcia]
     - Read and visualise data
@@ -35,7 +35,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
   * **Tutorial 5**  Manual curation with Spikeinterface GUI (45 min) [S. Garcia]
     - Demo
 
-  * **Tutorial 6**  Automaatic uration (45 min) [P. Yger]
+  * **Tutorial 6**  Automatic curation (45 min) [P. Yger]
     - Simple, threshold-based curation
     - Curation using ML models
     - Merging units
