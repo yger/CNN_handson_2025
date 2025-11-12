@@ -53,6 +53,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
 # Overview of available datasets
 
 If you have to pick only one file to download, because of disk usage, it has to be the first one, **M25_D23_2024-11-11_13-11-10_OF1**, since it will be the most used during the Tutorials. The download link is https://filesender.renater.fr/?s=download&token=f94a08b3-e779-4911-90bf-a312c3c34a01
+**Please do think about unzipping the data prior to the school!**
 
 ## In vivo
 
