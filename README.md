@@ -1,11 +1,13 @@
 # SpikeInterface Training Bordeaux November 2025
 
-Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR NeuralNet, November 2025 by Pierre Yger and Samuel Garcia
+Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR NeuralNet by Pierre Yger and Samuel Garcia
 
 ## Schedule
 
 
-**Tuesday 25 9h00 - 12h00**
+**Monday 25/11**
+
+  **Morning session (9h00 - 12h00)**
 
   * **Introduction to Spike Sorting** (1h30) [P. Yger]
   * **Introduction to `SpikeInterface`** (30 min) [S. Garcia]
@@ -15,8 +17,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
     - Read and visualise data
     - The importance of probes
 
-
-**Tuesday 25 13h00 - 17h00**
+  **Afternoon session (13h00 - 17h00)**
 
   * **Tutorial 2** Preprocessing (45 min) [P. Yger]
     - Apply and visualize preprocessing 
@@ -40,7 +41,9 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
     - Curation using ML models
     - Merging units
 
-**Wednesday 26 9h00 - 12h00**
+**Wednesday 26/11**
+
+ **Morning session (9h00 - 12h00)**
 
   * **Spike sorting on your own and/or other dataset** [both]
     - bring your own data if any
