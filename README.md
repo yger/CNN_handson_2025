@@ -8,11 +8,10 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
 **Tuesday 25 9h00 - 12h00**
 
   * **Introduction to Spike Sorting** (1h30) [P. Yger]
-  * **Introduction to `SpikeInterface`** (30min) [S. Garcia]
-  * **Chek you install / download** 15min [both]
+  * **Introduction to `SpikeInterface`** (30 min) [S. Garcia]
+  * **Chek you install / downloads** (15 min) [both]
 
-
-  * **Tutorial 1** Reading + Manipulation (20 min) [S. Garcia]
+  * **Tutorial 1** Reading + Manipulation (30 min) [S. Garcia]
     - Read and visualise data
     - The importance of probes
 
@@ -21,7 +20,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
 
   * **Tutorial 2** Preprocessing (45 min) [P. Yger]
     - Apply and visualize preprocessing 
-    - Detect bad channels
+    - Detect bad channels 
     - Motion correction
 
   * **Tutorial 3** Spike sort (45 min) [S. Garcia]
@@ -33,8 +32,8 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
     - Compute some extensions
     - Play with the extension outputs
 
-  * **Tutorial 5**  Manual curation with Spikeinterface GUI (45min) [S. Garcia]
-    - demo
+  * **Tutorial 5**  Manual curation with Spikeinterface GUI (45 min) [S. Garcia]
+    - Demo
 
   * **Tutorial 6**  Automaatic uration (45 min) [P. Yger]
     - Simple, threshold-based curation
@@ -44,10 +43,14 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
 **Wednesday 26 9h00 - 12h00**
 
   * **Spike sorting on your own and/or other dataset** [both]
+    - bring your own data if any
+    - Learn to spike sort all by yourself
 
 
 
 # Overview of available datasets
+
+If you have to pick only one file to download, because of disk usage, it has to be the first one, **M25_D23_2024-11-11_13-11-10_OF1**, since it will be the most used during the Tutorials
 
 ## In vivo
 
@@ -61,13 +64,6 @@ You can use the `spikeinterface.extractor.read_openephys()` function to read the
 Recording with 16 channels organized in 4 tetrodes acquired with the Open Ephys GUI in "openephys" format.
 You can use the `spikeinterface.extractor.read_openephys()` function to read the data.
 
-
-### cambridgeNT_openephys
-
-Recording with a Cambridge Neurotech [ASSY-236-H5](https://github.com/SpikeInterface/probeinterface_library/blob/main/cambridgeneurotech/ASSY-236-H5/ASSY-236-H5.png) probe and wired to the Open Ephys acquisition system via the 
-Cambridge NeuroTech mini-amp-64.
-You can use the `spikeinterface.extractor.read_openephys()` function to read the data.
-The probe is available from the [probeinterface_library](https://github.com/SpikeInterface/probeinterface_library) (see [docs](https://probeinterface.readthedocs.io/en/main/examples/ex_10_get_probe_from_library.html) here) and the wiring is available in [`ProbeInterface`](https://probeinterface.readthedocs.io/en/main/examples/ex_11_automatic_wiring.html#).
 
 
 ## In vitro
