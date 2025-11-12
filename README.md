@@ -49,6 +49,10 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
     - Learn to spike sort all by yourself
 
 
+# Installation
+
+See [installation page](https://github.com/samuelgarcia/school_spike_sorting_neuralnet_bordeaux_2025/installation.md)
+
 
 # Overview of available datasets
 
