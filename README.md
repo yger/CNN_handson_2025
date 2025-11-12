@@ -51,7 +51,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
 
 # Installation
 
-See [installation page](https://github.com/samuelgarcia/school_spike_sorting_neuralnet_bordeaux_2025/installation.md)
+See [installation page](https://github.com/samuelgarcia/school_spike_sorting_neuralnet_bordeaux_2025/blob/main/installation.md)
 
 
 # Overview of available datasets
