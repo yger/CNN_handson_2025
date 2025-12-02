@@ -1,52 +1,8 @@
-# SpikeInterface Training Bordeaux November 2025
+# SpikeInterface Hands on for spike sorting
 
-Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR NeuralNet by Pierre Yger and Samuel Garcia
+Material for the hands on session of the CNN Master
 
 ## Schedule
-
-## Tuesday 25/11
-
-  **Morning session (9h00 - 12h00)**
-
-  * **Introduction to Spike Sorting** (1h30) [P. Yger]
-  * **Introduction to `SpikeInterface`** (30 min) [S. Garcia]
-  * **Check you install / downloads** (15 min) [both]
-
-  * **Tutorial 1** Reading + Manipulation (30 min) [S. Garcia]
-    - Read and visualise data
-    - The importance of probes
-
-  **Afternoon session (13h00 - 17h00)**
-
-  * **Tutorial 2** Preprocessing (45 min) [P. Yger]
-    - Apply and visualize preprocessing 
-    - Detect bad channels 
-    - Motion correction
-
-  * **Tutorial 3** Spike sort (45 min) [S. Garcia]
-    - Run a spike sorter
-    - Compare spike sorter outputs
-
-  * **Tutorial 4**  Analyze Sorting (45 min) [P. Yger]
-    - Create a `SortingAnalyzer` to explore your sorting
-    - Compute some extensions
-    - Play with the extension outputs
-
-  * **Tutorial 5**  Manual curation with Spikeinterface GUI (45 min) [S. Garcia]
-    - Demo
-
-  * **Tutorial 6**  Automatic curation (45 min) [P. Yger]
-    - Simple, threshold-based curation
-    - Curation using ML models
-    - Merging units
-
-## Wednesday 26/11
-
- **Morning session (9h00 - 12h00)**
-
-  * **Spike sorting on your own and/or other dataset** [both]
-    - bring your own data if any
-    - Learn to spike sort all by yourself
 
 
 # Installation
@@ -70,7 +26,6 @@ You can use the `spikeinterface.extractor.read_openephys()` function to read the
 
 Recording with 16 channels organized in 4 tetrodes acquired with the Open Ephys GUI in "openephys" format.
 You can use the `spikeinterface.extractor.read_openephys()` function to read the data.
-
 
 
 ## In vitro
